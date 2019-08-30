@@ -1,0 +1,16 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-08-29T20:53:42.154443877-07:00"
+from:
+  id-type: crev
+  id: WXavKFY7LG0tRmmHdo36gcGxsfhLF1IhXrsQgQJjSZ0
+  url: "https://github.com/Ralith/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+qGR3j3fUNwnThMi6yxtYK58AJ0n76p5gL_PwwGeuA6hn-0ATrE_yl910VwVKtfZcEDEm0BThA-z5PNkTxT0rCA
+-----END CREV TRUST-----
+
