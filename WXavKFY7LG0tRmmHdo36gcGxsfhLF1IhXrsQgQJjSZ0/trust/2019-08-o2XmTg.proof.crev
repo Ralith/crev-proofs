@@ -30,3 +30,19 @@ trust: medium
 q1z04GoqncKsKLITLSJHphRczQ3TQl2nUFbMZw73bQHv64lwc9OkWlhu2gx_b9wu8Kn7zWsqt1ICs3eaFF3XCg
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-08-29T20:57:25.140918683-07:00"
+from:
+  id-type: crev
+  id: WXavKFY7LG0tRmmHdo36gcGxsfhLF1IhXrsQgQJjSZ0
+  url: "https://github.com/Ralith/crev-proofs"
+ids:
+  - id-type: crev
+    id: ZCBwWlOeJyU79adJqX9-irGH5wrmuYxUPXeSrFKuayg
+    url: "https://github.com/Lokathor/crev-proofs"
+trust: medium
+-----BEGIN CREV TRUST SIGNATURE-----
+Xk1bfHBpMPDEVY1MnGJf263OAv2pKcOYqq-lJwZ93zxjDbLs9w0Z8dhS3Vwgj9JDqZITLe50ihePKbWHPvL_DQ
+-----END CREV TRUST-----
+
